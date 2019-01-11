@@ -1,4 +1,5 @@
 #!/bin/bash
+# Heavily edited; original version from: https://github.com/munlik/refind-theme-regular
 
 cd "${0%/*}"
 

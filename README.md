@@ -32,4 +32,4 @@
    echo -e 'include refind-material-theme/theme.conf' | sudo tee -a /boot/efi/EFI/refind/refind.conf
    ```
 
-Originally forked from: https://github.com/munlik/refind-theme-regular
+Icons used from: https://github.com/templarian/MaterialDesign/
