@@ -1,5 +1,7 @@
 # rEFInd Material Theme
 
+![screenshot](https://raw.githubusercontent.com/Patricol/refind-material-theme/master/screenshot.png)
+
 ### Installation:
 
 1. Clone git repository to your $HOME directory.
