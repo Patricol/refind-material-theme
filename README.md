@@ -2,6 +2,8 @@
 
 ![screenshot](https://raw.githubusercontent.com/Patricol/refind-material-theme/master/screenshot.png)
 
+![screenshot_mouse](https://raw.githubusercontent.com/Patricol/refind-material-theme/master/screenshot_mouse.png)
+
 ### Installation:
 
 1. Clone git repository to your $HOME directory.
