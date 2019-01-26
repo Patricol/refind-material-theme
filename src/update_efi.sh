@@ -2,7 +2,7 @@
 
 cd "${0%/*}"
 
-rm -rf /boot/EFI/refind/theme
-cp -r .. /boot/EFI/refind/theme
-rm -rf /boot/EFI/refind/theme/{src,.git,README.md,screenshot*}
+sudo rm -rf /boot/EFI/refind/theme
+sudo cp -r .. /boot/EFI/refind/theme
+sudo rm -rf /boot/EFI/refind/theme/{src,.git,README.md,screenshot*}
 
