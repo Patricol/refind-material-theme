@@ -2,8 +2,7 @@
 
 cd "${0%/*}"
 
-mount /dev/sda1 /boot/efi/
-rm -rf /boot/efi/EFI/refind/refind-material-theme
-cp -r .. /boot/efi/EFI/refind/refind-material-theme
-rm -rf /boot/efi/EFI/refind/refind-material-theme/{src,.git}
-umount /boot/efi
+rm -rf /boot/EFI/refind/theme
+cp -r .. /boot/EFI/refind/theme
+rm -rf /boot/EFI/refind/theme/{src,.git,README.md,screenshot*}
+
