@@ -5,7 +5,7 @@ cd "${0%/*}"
 function set_color() {
     filename=$1
     color=$2
-    sed -i "s/fill:#....../fill:$color/g" $filename
+    sed -i "s/fill:#....../fill:#$color/g" $filename
 }
 
 if [ -f ~/.cache/wpg/patricol_scripts/named-colors.sh ]; then
